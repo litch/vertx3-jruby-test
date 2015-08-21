@@ -1,0 +1,16 @@
+PATH
+  remote: ../libraries/uuid
+  specs:
+    uuid (0.0.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  uuid!
+
+BUNDLED WITH
+   1.10.6
